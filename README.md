@@ -1,5 +1,6 @@
-### Hi there 👋
-
+#CamEagle 👋
+A construction material platform for sellers who are in the field of Construction.  
+We have website and applications on the most popular platforms including iOS, Android, and Desktop.
 <!--
 **cameagle/cameagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
